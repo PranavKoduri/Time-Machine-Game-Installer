@@ -20,10 +20,12 @@ Collect all the keys and reach the end before time runs out. You will run out of
 ## Controls:
 
 ### Keys:
-- WASD or Arrows Keys: Move
+- WASD or Arrow Keys: Move
 - P or Space Bar: Pause
 - Esc or Q: Quit
   - the app will close
+- V: toggle vertical rotation restriction
+  - prevent you from getting lost with the camera rotation
 - T or C: toggle between minimap settings
   - Default: minimap follows you and direction you're facing
   - Minimap Only: you stay put in place and don't move, but your minimap moves so you can examine the area a bit.
@@ -39,6 +41,7 @@ Collect all the keys and reach the end before time runs out. You will run out of
 - Left Click: Place Key (in a lock)
 - Right Click: Take Key (from lock or key holder)
 - Mouse Scroll: zoom the minimap in/out
+- Move Mouse: rotate camera to look in different directions
 
 ### Mouse/Keys:
 - Mouse Scroll Click or 0: reset the minimap
