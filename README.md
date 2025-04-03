@@ -1,7 +1,7 @@
 # Time Machine Game
 ###### by Pranav Koduri
 ---
-##### NOTE: All art/images and code in this game is 100% created by me. No outside help or resources were used other than what is provided by Unity.
+##### NOTE: All art/images and code in this game is 100% created by me. No outside help or resources were used other than what is provided by Unity. The actual code for this game is in a separate, private repository.
 ---
 Download the installer to install the game. As of right now (v1.0.0), the installer will need to be redownloaded and the game reinstalled for every update. This version is only supported by Windows. The download is on the right side of this page under the "Releases" section.
 
