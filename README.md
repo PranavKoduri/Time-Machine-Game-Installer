@@ -5,8 +5,6 @@
 ---
 Download the installer to install the game. As of right now (v1.0.0), the installer will need to be redownloaded and the game reinstalled for every update. This version is only supported by Windows. The download is on the right side of this page under the "Releases" section.
 
-The source code in the release contains no code.
-
 ## Basic description
 Collect all the keys and reach the end before time runs out. You will run out of time...but there's a time machine in the center that you can use a few times to get time back. But be careful - you get less time whenever you time travel, and you always have to make sure you don't interrupt anything you did with your past self or else you lose. Also make sure not to lock yourself out of anywhere - take keys whenever you can, but don't lock doors because you may be unable to unlock it again.
 
